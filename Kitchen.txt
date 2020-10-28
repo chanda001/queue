@@ -7,4 +7,8 @@ Spoon Count - 8
 
 Plate Count - 10
 
+Towel
+chair
+Table
+
 Second Commit
