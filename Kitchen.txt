@@ -1,8 +1,10 @@
 Welcome to My Kitchen 
 
 
-Bowl Count - 2
+Bowl Count - 4
 
-Spoon Count - 6
+Spoon Count - 8
 
-Plate Count - 9
+Plate Count - 10
+
+Second Commit
